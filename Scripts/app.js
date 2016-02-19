@@ -1,8 +1,6 @@
 "use strict";
 
 // setup your IIFE (Immediately Invoked Function Expression)
-
-
 (function () {
 
     if (document.getElementById("aboutPage") != null) {
